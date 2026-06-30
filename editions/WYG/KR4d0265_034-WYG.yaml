@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0265/WYG/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 石湖居士詩集
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 13:08:30.152346'
+  source:
+    repository: kanripo
+    path: KR4d0265/KR4d0265_034.txt
+hash: sha256:03ec96888ef5cf2ddf4e44cc8665f9f420c460e51b60b6b64e414d38da9106c4

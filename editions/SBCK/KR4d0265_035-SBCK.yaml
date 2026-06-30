@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4d0265/SBCK/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跋先人嘗爲莘等言自十四五始爲詩文晚而罙篤或寢疾醫以勞心見止亦以政自不能不爾謝之手編僅成帙而棄不肖之孤其尚忍言哉當從九京遊而未敢者以先人之志未承也詩文凡百有三十卷求序於楊先生誠齋求校於龔編修芥隱而刊於家之壽櫟堂春秋霜露思其志意思其所樂僾然如見愾然如聞庶得藉口以告吾先人云嘉泰三年十二月初三日莘兹謹書
+  hash: sha256:a0069f780ae627189fa7cefc35e17df07ef1ad38c35d162da6dd494915c7a9d5
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0265_SBCK_035-1a}
+metadata:
+  title: 石湖居士詩集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 13:08:30.152346'
+  source:
+    repository: kanripo
+    path: KR4d0265/KR4d0265_035.txt
+hash: sha256:18b5d090c898a81601646a70e3f947b7d11a4b3cbe58853693faf5ec04835194
