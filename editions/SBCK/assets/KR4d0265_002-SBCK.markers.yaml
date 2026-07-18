@@ -43,6 +43,7 @@ markers:
   - {type: line-break, offset: 93, content: '', id: KR4d0265_SBCK_002-1a09}
   - {type: indent, offset: 93, content: 　　　, id: KR4d0265_SBCK_002-bkkind3}
   - {type: punctuation, offset: 95, content: (, id: KR4d0265_SBCK_002-bkkpn1}
+  - {type: voice, offset: 95, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 98, content: ), id: KR4d0265_SBCK_002-bkkpn2}
   - {type: 'kr:newline', offset: 98, content: '
 
@@ -215,6 +216,7 @@ markers:
   - {type: line-break, offset: 560, content: '', id: KR4d0265_SBCK_002-3a01}
   - {type: indent, offset: 560, content: 　　　, id: KR4d0265_SBCK_002-bkkind13}
   - {type: punctuation, offset: 562, content: (, id: KR4d0265_SBCK_002-bkkpn3}
+  - {type: voice, offset: 562, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 564, content: ), id: KR4d0265_SBCK_002-bkkpn4}
   - {type: 'kr:newline', offset: 564, content: '
 
@@ -278,6 +280,7 @@ markers:
   - {type: line-break, offset: 786, content: '', id: KR4d0265_SBCK_002-3b03}
   - {type: indent, offset: 786, content: 　　　, id: KR4d0265_SBCK_002-bkkind18}
   - {type: punctuation, offset: 796, content: (, id: KR4d0265_SBCK_002-bkkpn5}
+  - {type: voice, offset: 796, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 802, content: ), id: KR4d0265_SBCK_002-bkkpn6}
   - {type: 'kr:newline', offset: 802, content: '
 
@@ -728,6 +731,7 @@ markers:
   - {type: line-break, offset: 2264, content: '', id: KR4d0265_SBCK_002-8a02}
   - {type: indent, offset: 2264, content: 　　　, id: KR4d0265_SBCK_002-bkkind38}
   - {type: punctuation, offset: 2266, content: (, id: KR4d0265_SBCK_002-bkkpn7}
+  - {type: voice, offset: 2266, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2268, content: ), id: KR4d0265_SBCK_002-bkkpn8}
   - {type: 'kr:newline', offset: 2268, content: '
 
@@ -1019,4 +1023,4 @@ markers:
 
       ', id: KR4d0265_SBCK_002-bkkkrnewl239}
   back: []
-hash: sha256:a62c1076cf4271bf0603bd47b14fd23ab646aa926c04c528c609b784bcadb8a5
+hash: sha256:3d82e35f8fb85feedd4a61a42e8346b28ee90de0edc570c93544f254f1ae3794

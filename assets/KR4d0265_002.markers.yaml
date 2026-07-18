@@ -61,6 +61,7 @@ markers:
   - {type: indent, offset: 93, content: 　　　, id: KR4d0265_krp_002-bkkind3}
   - {type: variant, offset: 93, length: 1, content: 曉, WYG: 晚}
   - {type: punctuation, offset: 95, content: (, id: KR4d0265_krp_002-bkkpn1}
+  - {type: voice, offset: 95, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 98, content: ), id: KR4d0265_krp_002-bkkpn2}
   - {type: 'kr:newline', offset: 98, content: '
 
@@ -273,6 +274,7 @@ markers:
   - {type: line-break, offset: 560, content: '', id: KR4d0265_SBCK_002-3a01}
   - {type: indent, offset: 560, content: 　　　, id: KR4d0265_krp_002-bkkind13}
   - {type: punctuation, offset: 562, content: (, id: KR4d0265_krp_002-bkkpn3}
+  - {type: voice, offset: 562, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 564, content: ), id: KR4d0265_krp_002-bkkpn4}
   - {type: 'kr:newline', offset: 564, content: '
 
@@ -354,6 +356,7 @@ markers:
   - {type: line-break, offset: 786, content: '', id: KR4d0265_SBCK_002-3b03}
   - {type: indent, offset: 786, content: 　　　, id: KR4d0265_krp_002-bkkind18}
   - {type: punctuation, offset: 796, content: (, id: KR4d0265_krp_002-bkkpn5}
+  - {type: voice, offset: 796, length: 6, name: note, id: n3}
   - {type: punctuation, offset: 802, content: ), id: KR4d0265_krp_002-bkkpn6}
   - {type: 'kr:newline', offset: 802, content: '
 
@@ -933,6 +936,7 @@ markers:
   - {type: line-break, offset: 2264, content: '', id: KR4d0265_SBCK_002-8a02}
   - {type: indent, offset: 2264, content: 　　　, id: KR4d0265_krp_002-bkkind38}
   - {type: punctuation, offset: 2266, content: (, id: KR4d0265_krp_002-bkkpn7}
+  - {type: voice, offset: 2266, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2268, content: ), id: KR4d0265_krp_002-bkkpn8}
   - {type: 'kr:newline', offset: 2268, content: '
 
@@ -1318,4 +1322,4 @@ markers:
 
       ', id: KR4d0265_krp_002-bkkkrnewl239}
   back: []
-hash: sha256:4853b41c0f765280c4d9598984bb7252c0c0d9b25ccdf833031dfd0ea5632871
+hash: sha256:c612d7d49c659a59f101d57c115489fd5edc86035f51610cd4271fd7f69c17f5
